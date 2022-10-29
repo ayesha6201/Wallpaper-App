@@ -1,16 +1,10 @@
-# wallpapers
+# Wallpaper App
 
-A new Flutter project.
+An app where you can select wallpaper for you app from various themes and options. 
 
-## Getting Started
+Choose your favourite, and apply it as you mobile wallpaper!
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/115712578/198824786-e0321617-b511-4c00-9f31-f54bab0a2ccb.jpeg" height=550> <img src="https://user-images.githubusercontent.com/115712578/198824787-f7bef6c0-3d97-4c52-9b72-939ca4877c68.jpeg" height=550> <img src="https://user-images.githubusercontent.com/115712578/198824789-96c7207d-9e40-4aa5-acc7-3e1ca42b2884.jpeg" height=550> <img src="https://user-images.githubusercontent.com/115712578/198824791-31d1b564-0d65-4a75-b58c-bbc7f3aac81c.jpeg" height=550> <img src="https://user-images.githubusercontent.com/115712578/198824793-a43f6b35-2fae-452a-8ac4-416fc8563b21.jpeg" height=550> <img src="https://user-images.githubusercontent.com/115712578/198824794-f396b6cb-1ad3-4657-a0a2-bf0ad3d7619d.jpeg" height=550>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
